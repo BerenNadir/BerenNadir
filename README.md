@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Beren 👋
 
-<!--
-**BerenNadir/BerenNadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Northumbria University (London Campus) with an interest in software development and backend systems.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- Java
+- Python
+- SQL
+- PHP
+- HTML & CSS
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+
+### 🍽 Restaurant Management System
+Java desktop application built with Swing featuring role-based login, order management and billing.
+
+### 🏥 NHS Appointment Booking Website
+Web application developed using PHP, SQL, HTML and CSS for managing patient appointments.
+
+### 📚 Library Management System
+Python command-line system for managing books and users.
+
+## 🔗 Links
+GitHub: https://github.com/BerenNadir
+LinkedIn: https://www.linkedin.com/in/beren-nadir-2681a9222/
